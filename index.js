@@ -5,4 +5,3 @@ function upperCaseCustomerName(){
     cutomerName = customerName.toUpperCase()
     
 }
-
